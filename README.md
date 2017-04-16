@@ -1,4 +1,4 @@
-#gridform
+# gridform
 ======================
 
 [Formidable](https://github.com/felixge/node-formidable) streams uploads to the file system by default. If you're using GridFS to store files you'll then need to turn around and copy them off of the file system. Using `gridform` removes this burden.
